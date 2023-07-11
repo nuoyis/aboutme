@@ -1,0 +1,2 @@
+没有地址function会报错，自行打开数据库导入即可
+define.php里面找define('yudebug', '0');值改成1看报错
